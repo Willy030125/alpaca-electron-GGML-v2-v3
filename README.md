@@ -29,6 +29,10 @@ Alpaca Electron
 
 This updated Alpaca-Electron is designed for GGML v2 and v3. Also in this build there's web-search integration albeit much slower..
 
+## 🚀 Model download
+- Example of GGMLv2: https://huggingface.co/eachadea/ggml-gpt4-x-vicuna-13b/blob/main/ggml-gpt4-x-vicuna-13b-q4_0.bin
+- Example of GGMLv3: https://huggingface.co/TheBloke/gpt4-x-vicuna-13B-GGML/blob/main/gpt4-x-vicuna-13B.ggmlv3.q4_0.bin
+
 ## 🎞 Preview
 
 ![Demonstration](https://github.com/ItsPi3141/alpaca-electron/raw/main/demo.gif)
